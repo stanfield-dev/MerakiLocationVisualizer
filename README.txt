@@ -6,11 +6,9 @@ PRE-REQs
 4 - a host on your network set up to allow Meraki to send you data via HTTPS (self-signed certs do not work...)
 5 - an underlying database to hold the data
 
-This project was a learning exercise with the goals of exploring the Meraki Location API, using (and learning) C# to
-do so, and then doing something with the data (in this case, visualizing it via OpenGL).
+This project was a learning exercise with the goals of exploring the Meraki Location API, using (and learning) C# to do so, and then doing something with the data (in this case, visualizing it via OpenGL).
 
-Look for the video series on my Network Tech Projects youtube channel at:
+There is a very short video overview here:
 
 https://www.youtube.com/channel/UCgir-VrOw32K_XV34CAUKDw/featured
 
-I can be reached at nettechprojects@gmail.com

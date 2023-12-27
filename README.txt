@@ -12,3 +12,4 @@ There is a very short video overview here:
 
 https://www.youtube.com/channel/UCgir-VrOw32K_XV34CAUKDw/featured
 
+![Screenshot](screenshot.png)
